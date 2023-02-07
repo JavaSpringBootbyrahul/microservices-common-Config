@@ -1,6 +1,6 @@
 spring:
-# application:
-#  name: CONFIG-DEFAULT
+ application:
+  name: GIT-USER-SERVICE-DEFAULT
 
 eureka:
   
